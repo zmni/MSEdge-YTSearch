@@ -1,0 +1,11 @@
+{
+    "extName": {
+        "message": "Search on YouTube"
+    },
+    "extDesc": {
+        "message": "Context menu item for searching video on YouTube."
+    },
+    "contextMenuTitle": {
+        "message": "Search YouTube for"
+    }
+}
