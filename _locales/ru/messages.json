@@ -1,0 +1,11 @@
+{
+    "extName": {
+        "message": "Поиск на YouTube"
+    },
+    "extDesc": {
+        "message": "Пункт контекстного меню для поиска видео на YouTube."
+    },
+    "contextMenuTitle": {
+        "message": "Поиск на YouTube по запросу"
+    }
+}
